@@ -1,0 +1,76 @@
+Privacy Statement
+18 Sep 2022
+
+First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Mola App services and we value that trust. That means we’re committed to protecting and safeguarding any personal data you give us. We act in our customers’ best interest and we are transparent about the processing of your personal data.
+
+This document describes how we use and process your personal data, provided in a readable and transparent manner. It also tells you what rights you can exercise in relation to your personal data and how you can contact us. Please also read our Cookie Statement, which tells you how Mola App uses cookies and other similar tracking technologies.
+
+If you’ve used us before, you know that Mola App offers online travel-related services through our own websites and mobile apps, as well as other online platforms such as partners’ websites and social media. We’d like to point out that all the information you are about to read, generally applies to not one, not two, but all of these platforms.
+
+In fact, this single privacy statement applies to any kind of customer information we collect through all of the above platforms or by any other means connected to these platforms (such as when you contact our customer service team by email).
+
+If you are one of our business partners, make sure to also check out our Privacy Statement for Business Partners to understand how personal data is further processed as part of the business relationship.
+
+We might amend the Privacy Statement from time to time, so we recommend you visit this page occasionally to make sure you know where you stand. If we make any updates to the Privacy Statement that will impact you significantly, we’ll notify you about the changes before any new activities begin.
+
+What kind of personal data does Mola App collect?
+We collect information ranging from name, gender, program offered and level, We also collect contact information like email and phone number.
+
+This is the general overview but if you’d like to know more about the information we collect, we go into more detail below.
+
+Why does Mola App collect and use your personal data?
+The main reason we ask you for personal details is to help you book a room successfully and also know the room mates you will be sharing your room with.
+
+We also use your personal data to send you nofications and contact you if any problem arrives.
+
+How does Mola App share your data with third parties?
+There is a third party integrated into Mola App’s services called paystack. The primary reason we share your data is to help you pay for the room successfully
+
+You can view paystack's privacy policy at https://paystack.com/gh/privacy/merchant
+
+How is your personal data shared within the Booking Holdings Inc. corporate group?
+Mola App is part of the Booking Holdings Inc. corporate group. Read on to find out more about how your data may be shared within the Booking Holdings Inc. corporate group.
+
+How does Mola App process communications that you?
+Mola App communicates with you throughnotifications sent to your phone
+
+Read more about how these communications are processed
+
+What security and retention procedures does Mola App put in place to safeguard your personal data?
+We have implemented a range of procedures to prevent unauthorised access to, and the misuse of, personal data that we process by encrypting your password and also using login tokens.
+
+How does Mola App treat personal data belonging to children?
+Unless indicated otherwise, Mola App is a service you are only allowed to use if you are over 16 years of age.
+
+How can you control the personal data you’ve given to Mola App?
+You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data by submitting this form. If you want to find out more about your rights to control your personal data, read on.
+
+Who is responsible for the processing of personal data on the Mola App ?
+Mola App Admin, located in Cape Coast, Ghana, controls the processing of personal data for the provision of its services. That includes notifications and allocation of rooms except for some exceptions that are clarified in this privacy statement.
+
+Country-specific provisions
+Depending on the law that applies to you, we might be required to provide some additional information. If you'd like to know more, please read on.
+
+Communicating with you: There might be other times when we get in touch, including by email, by chatbot, by post, by phone or by texting you. Which method we choose depends on the contact information you’ve previously shared.
+
+In case of misconduct, we may send you a notice and/or warning.
+
+Improving our services: We also use personal data for analytical purposes and product improvement. This is part of our commitment to making our services better and enhancing the user experience.
+
+In this case, we use data for testing and troubleshooting purposes, as well as to generate statistics about our business. The main goal here is to get insights into how our services perform, how they are used, and ultimately to optimise and customise our website and apps, making them easier and more meaningful to use. As much as possible, we strive to use anonymised and de-identified personal data for this analytical work.
+
+Legal purposes: Finally, in certain cases, we may need to use your information to handle and resolve legal claims and disputes, for regulatory investigations and compliance, to enforce the Mola App online reservation service terms of use or to comply with lawful requests from law enforcement.
+
+To process your personal data as described above, we rely on the following legal bases:
+As applicable, for purpose A and B, Mola App relies on the legal basis that the processing of personal data is necessary for the performance of a contract, specifically to finalise and administer your Trip Reservation.
+
+If the required personal data is not provided, Mola App cannot finalise the Room Reservation, nor can we provide customer service. In view of purposes C to L, Mola App relies on its (or third parties’) legitimate interest, to provide and improve services and to prevent fraud and other illegal acts (as set out more specifically under C to L).
+
+When using personal data to serve Mola App’s or a third party's legitimate interest, Mola App will always balance your rights and interests in the protection of your personal data against Mola App’s rights and interests or those of the third party. For purposes M, Mola App also relies, where applicable, on compliance with legal obligations (such as lawful law enforcement requests).
+
+Finally, where needed under applicable law, Mola App will obtain your consent prior to processing your personal data, including for email marketing purposes or as otherwise required by law.
+
+If you wish to object to the processing set out under C to L and no opt-out mechanism is available to you directly (for example, in your account settings), please contact us.
+
+How to contact us
+You can contact us on +233542018740 or +233556841912
